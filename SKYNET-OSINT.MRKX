@@ -1,0 +1,31 @@
+
+# SKYNET-OSINT.MRKX - Final Upgraded OSINT-Based Criminal Tracking System
+# Purpose: Advanced Intelligence Gathering for Law Enforcement & Cybercrime Investigations
+
+## New Upgrades & Features:
+# ✅ Live Phone Number Intelligence (Carrier, status, geolocation history)
+# ✅ Deep Social Media Extraction (Facebook, Instagram, LinkedIn, Telegram, etc.)
+# ✅ Dark Web & Data Breach Monitoring (Detects leaks from hacker forums)
+# ✅ Real-Time IP & Device Tracking (If suspect is online)
+# ✅ AI-Powered Link Analysis (Connects numbers to other identities)
+# ✅ Facial Recognition & Image Search (Scans social media images for face matching)
+# ✅ Automated PDF Reports (Forensic intelligence summary)
+# ✅ Stealth Mode (Proxy rotation + Tor to avoid detection)
+# ✅ Secure Web Dashboard (Interactive UI for law enforcement)
+
+## Technologies Used:
+# - FastAPI + Celery (Asynchronous Data Processing)
+# - Scrapy + Selenium (Data Extraction from Web Sources)
+# - Google Dorking API (Indexed Hidden Data Search)
+# - NumLookup API & PhoneInfoga (Live Number Intelligence)
+# - Neo4j Graph Database (AI Identity Link Analysis)
+# - OpenCV + DeepFace (Facial Recognition on Social Media Images)
+# - Proxy Rotation (Tor & BrightData for Undetectable Scraping)
+# - PostgreSQL (Stores Intelligence Reports for Analysis)
+
+# Deployment & Security:
+# - Hosted on Secure Cloud Server (AWS, GCP, or Private VPS)
+# - Encrypted Data Storage with Secure Access Control
+# - Custom API for Integration with Law Enforcement Databases
+
+# Full implementation available in provided scripts.
